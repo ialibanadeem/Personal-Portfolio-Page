@@ -13,13 +13,9 @@ This is a modern, responsive portfolio website designed to showcase your skills,
 7. [Contributing](#contributing)
 8. [License](#license)
 
----
-
 ## About
 
 This portfolio website is built using HTML and CSS to create a sleek, minimalist design. It includes multiple sections such as skills, education, certifications, and a call-to-action (CTA) to connect with you. It’s easy to customize and perfect for showcasing your professional journey.
-
----
 
 ## Features
 
@@ -29,14 +25,10 @@ This portfolio website is built using HTML and CSS to create a sleek, minimalist
 - **Simple Customization**: Easily update content and styles.
 - **Call-to-Action**: Encourages visitors to connect via GitHub, LinkedIn, or email.
 
----
-
 ## Technologies Used
 
 - **HTML5**: For semantic structure and content.
 - **CSS3**: For styling and layout.
-
----
 
 ## Sections
 
@@ -47,4 +39,8 @@ This portfolio website is built using HTML and CSS to create a sleek, minimalist
 5. **Certifications**: Lists professional certifications.
 6. **Connect with Me**: Provides links to GitHub, LinkedIn, and email.
 7. **Footer**: Simple footer with copyright information.
+
+## Preview
+
+![image](https://github.com/user-attachments/assets/fba49b0f-2b96-4190-a849-5f4a9c40ee65)
 
